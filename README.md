@@ -27,6 +27,8 @@ The raw dataset provided by Kaggle did not involve any missing data, so the main
 
 I did some initial exploration to get a better feel for the data. Despite the simplicity of the data there is still interesting information to be gleaned, especially when it comes to making use of visualization techniques. First, I generated wordclouds for each author that indicated what words were used the most frequently.  I combined the sentences for each individual author and filtered out words containing 4 characters or fewer so that the wordclouds didn’t include common pronouns, conjunctions, and other linking words. 
 
+![png](images/wordcloud_eap.png.png)
+
 ## Analysis
 
 It is good to have a baseline level of accuracy to gauge the effectiveness of the models we develop. If there were an equal number of sentences for each author then a random guess approach would lead to an expected accuracy of ⅓. Selecting one of the authors for every sentence would produce an equivalent result. However, the sentences are not evenly distributed as seen below.
