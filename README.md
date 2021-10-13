@@ -1,4 +1,12 @@
-# Spooky Natural Language Processing Project
+**Spooky Natural Language Processing Project**
+> Predicting the author of a piece of text
+
+**Contents**
+
+- [The Problem](#the-problem)
+- [The Data](#the-data)
+- [Data Exploration](#data-exploration)
+- [Analysis](#analysis)
 
 
 ## The Problem
